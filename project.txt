@@ -1,7 +1,7 @@
 My project name is JARVIS(voice assisant)
 My team members are:
-1. Vipin Sharma (2210990965)
+1. Yashleen (2210990981)
 2. Vidushi Kaushik (2210990958)
 Work assigned:
-I am the maintainer and did code work.
-PPT of project is made by my team members.
+Yashleen did code work.
+PPT of project is made by me and vidushi
